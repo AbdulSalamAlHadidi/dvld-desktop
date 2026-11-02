@@ -2,4 +2,5 @@
   <Project Path="DVLD.BL/DVLD.BL.csproj" Id="1fcbb45d-44b4-4359-8a3a-5888f6dd89ff" />
   <Project Path="DVLD.DAL/DVLD.DAL.csproj" Id="0ffbef00-465c-49d9-a7d2-7ee03ef1c951" />
   <Project Path="DVLD.UI.Classic/DVLD.UI.Classic.csproj" Id="92e6a0cd-10fa-4567-83f2-b6633bc7906a" />
+  <Project Path="DVLD.UI.Modern/DVLD.UI.Modern.csproj" Id="beadeadc-ee7f-4795-9abb-46d4470a56c4" />
 </Solution>
