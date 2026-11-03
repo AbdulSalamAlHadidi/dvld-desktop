@@ -130,5 +130,20 @@
   <ItemGroup>
     <None Include="Resources\close_24x24.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsAccount_settings_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsApplications_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsDrivers_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsPeople_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tsUsers_64x64.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
