@@ -66,11 +66,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Pages\People\PeopleControl.cs">
+    <Compile Include="Forms\People\ManagePeopleForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Pages\People\PeopleControl.Designer.cs">
-      <DependentUpon>PeopleControl.cs</DependentUpon>
+    <Compile Include="Forms\People\ManagePeopleForm.Designer.cs">
+      <DependentUpon>ManagePeopleForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -79,6 +79,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Controls\People\PersonEditControl.resx">
       <DependentUpon>PersonEditControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\People\ManagePeopleForm.resx">
+      <DependentUpon>ManagePeopleForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
